@@ -12,7 +12,7 @@ Main
 * Auto Tap
 * Inf Pet Speed
 * Auto Farm (Buy Area, Egg) NEW!
-* Auto Rank NEW! +second fix
+* Auto Rank NEW! +THIRD fix
 Egg
 * Auto Buy Egg
 Digsite
