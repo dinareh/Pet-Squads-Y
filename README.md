@@ -6,6 +6,8 @@ Functions:
 Main
 * Auto Tap
 * Inf Pet Speed
+* Auto Farm (Buy Area, Egg) NEW!
+* Auto Rank NEW!
 Egg
 * Auto Buy Egg
 Digsite
