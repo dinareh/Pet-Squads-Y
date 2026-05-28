@@ -1,20 +1,25 @@
 Espa Hub for Pet Squads Y
+
 Free script | keyless
+
 Next Script Functions:
 
 Auto Potions & Flags
-Auto Golden & Rainbow Pets
-Free Time Rewards (Gifts)
+
+SCRIPT HAVE SAVE SETTINGS (NEW!)
 
 Functions:
 
 Main
 * Auto Tap
 * Inf Pet Speed
-* Auto Farm (Buy Area, Egg) NEW!
-* Auto Rank NEW! +THIRD fix
+* Auto Farm (Buy Area, Egg)
+* Auto Rank
+* Auto Make Golden & Rainbow Pets
 Egg
 * Auto Buy Egg
+* Auto Open Eggs (for eggs index only)
+* Skip Eggs (index)
 Digsite
 * Auto Teleport To Mine ( need to be in digsite )
 * Auto Dig Blocks
@@ -26,6 +31,3 @@ Lucky Block
 Misc
 * Auto Daily Rewards
 * Auto Vending Machines
-Index
-* Auto Open Eggs (for eggs index only)
-* Skip Eggs NEW!
