@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dinareh/Pet-Squads-Y/refs/heads/main/main"))()
+
 Espa Hub for Pet Squads Y
 
 Free script With Key
