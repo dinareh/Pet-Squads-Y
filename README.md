@@ -1,12 +1,12 @@
 Espa Hub for Pet Squads Y
 
-Free script | keyless
+Free script With Key
+https://discord.gg/ypV7BueMEb
 
 Next Script Functions:
-
 Auto Potions & Flags
 
-SCRIPT HAVE SAVE SETTINGS (NEW!)
+Script Have Save Settings
 
 Functions:
 
@@ -28,6 +28,6 @@ Digsite
 Lucky Block
 * Auto Tap Lucky Block
 * Auto Lucky Block Upgrades
-Misc
+Misc - Removed for some time
 * Auto Daily Rewards
 * Auto Vending Machines
